@@ -1,0 +1,6 @@
+Given a detailed text passage, generate a comprehensive list of questions that closely relate to the core concepts and ideas in the passage. These questions should be able to facilitate deeper learning and understanding of the content. Do not use numbering, but separate them with semicolon. If you think it should no/just few questions, then write few or better nothing.
+
+<<PASSAGE>>
+
+
+QUESTIONS:
